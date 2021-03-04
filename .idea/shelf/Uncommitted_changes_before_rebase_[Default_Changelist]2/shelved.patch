@@ -1,0 +1,18 @@
+Index: src/BlocksDefinitionReader.java
+===================================================================
+diff --git a/src/BlocksDefinitionReader.java b/src/BlocksDefinitionReader.java
+deleted file mode 100644
+--- a/src/BlocksDefinitionReader.java	(revision c5a21e1aa6e56d0f85ccb2046ced3edea3a93cb6)
++++ /dev/null	(revision c5a21e1aa6e56d0f85ccb2046ced3edea3a93cb6)
+@@ -1,11 +0,0 @@
+-/*
+-public class BlocksDefinitionReader {
+-    public static BlocksFromSymbolsFactory fromReader(java.io.Reader reader){
+-
+-    }
+-
+-}
+-
+-
+- */
+-
