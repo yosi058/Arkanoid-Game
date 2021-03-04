@@ -8,8 +8,8 @@
 
 3.there is a few phase - from easy to hard.
 
-4. you may see the hight scores in the game and try to break the record.
+4.you may see the hight scores in the game and try to break the record.
 
-5.there is a coplue of package to the order.
+5.There is a coplue of package to the order.
 
 6. have fun!
