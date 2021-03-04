@@ -1,6 +1,6 @@
 # Arkanoid-Game
 
-#game instructions:
+# game instructions:
 
 1.Download all files.
 
@@ -12,4 +12,4 @@
 
 5.There is a coplue of package to the order.
 
-6. have fun!
+6.Have fun!
