@@ -33,13 +33,25 @@ public class MenuAnimation<T> implements Menu<T> {
         return this.temp;
     }
 
-    @Override
+   @Override
     public void doOneFrame(DrawSurface d) {
-        d.setColor(Color.black);
-        d.drawText(10, 350, "Press h to get height score ", 32);
-        d.drawText(10, 400, "Press s to start a game", 32);
-        d.drawText(10, 450, "Press q to quit", 32);
+        Random rand=new Random();
+        final int radius = 4;
+        d.setColor(Color.cyan);
+        d.fillRectangle(0, 0, 800, 600);
+        for (int i = 0; i < 100; i++) {
+            Color randomColor = new Color(rand.nextInt(0xFFFFFF));
+            int x1 = rand.nextInt(GameLevel.WIDTH_OF_GUI);
+            int y1 = rand.nextInt(GameLevel.HEIGHT_OF_GUI);
+            Ball ball = new Ball(x1, y1, radius, randomColor);
+            ball.drawOn(d);
+            d.setColor(Color.black);
+            d.drawText(10, 350, "Press h to get height score ", 32);
+            d.drawText(10, 400, "Press s to start a game", 32);
+            d.drawText(10, 450, "Press q to quit", 32);
+        }
     }
+  
 
     @Override
     public boolean shouldStop() {
