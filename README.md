@@ -1,5 +1,3 @@
-<img width="595" alt="Arkanoid - Game" src="https://user-images.githubusercontent.com/71962627/112365791-b90afc80-8ce0-11eb-9d21-d792a1fcb95f.png">
-<img width="595" alt="Arkanoid - Game" src="https://user-images.githubusercontent.com/71962627/112365812-c0320a80-8ce0-11eb-849d-8a02cdf48734.png">
 # Arkanoid-Game
 
 # game instructions:
@@ -15,3 +13,7 @@
 5.There is a coplue of package to the order.
 
 6.Have fun!
+
+<img width="595" alt="Arkanoid - Game" src="https://user-images.githubusercontent.com/71962627/112365791-b90afc80-8ce0-11eb-9d21-d792a1fcb95f.png">
+
+
