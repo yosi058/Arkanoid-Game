@@ -46,6 +46,7 @@ public class MenuAnimation<T> implements Menu<T> {
             Ball ball = new Ball(x1, y1, radius, randomColor);
             ball.drawOn(d);
             d.setColor(Color.black);
+             d.drawText(40, 150, "Welcome to the Arkanoid Game:\n  ", 42);
             d.drawText(10, 350, "Press h to get height score ", 32);
             d.drawText(10, 400, "Press s to start a game", 32);
             d.drawText(10, 450, "Press q to quit", 32);
