@@ -61,6 +61,7 @@ public class GameFlow {
         this.animationRunner.run(new KeyPressStoppableAnimation(this.keyboardSensor,
                 KeyboardSensor.SPACE_KEY,
                 new EndScreen(this.win, this.counter)));
+        this.counter.setCounter(0);
     }
 }
 
