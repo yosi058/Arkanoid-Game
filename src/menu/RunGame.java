@@ -28,6 +28,7 @@ public class RunGame implements Task<Void> {
 
     @Override
     public Void run() {
+        counter.setCounter(0);
         this.game.runLevels(this.levelInf);
         this.runner.run(new KeyPressStoppableAnimation(this.keyboardSensor,
                 KeyboardSensor.SPACE_KEY,
