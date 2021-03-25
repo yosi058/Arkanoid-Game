@@ -14,7 +14,8 @@
 
 6.Have fun!
 
-<img width="595" alt="Arkanoid - Game" src="https://user-images.githubusercontent.com/71962627/112365791-b90afc80-8ce0-11eb-9d21-d792a1fcb95f.png">
-<img width="587" alt="Menu" src="https://user-images.githubusercontent.com/71962627/112366874-f2903780-8ce1-11eb-8fd6-7d49bf140e9d.png">
+![Screenshot from 2021-03-25 11-08-20](https://user-images.githubusercontent.com/71962627/112449595-3b84d200-8d5c-11eb-92ff-68976a6150ad.png)
+![Screenshot from 2021-03-25 11-09-46](https://user-images.githubusercontent.com/71962627/112449609-3f185900-8d5c-11eb-9263-8f0457bae07c.png)
+
 
 
